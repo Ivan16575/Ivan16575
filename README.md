@@ -4,27 +4,6 @@
   <img src="./bandera1.png" alt="banner" width="900" />
 </div>
 
----
-
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-  </a>
-  <a href="https://dev.to/TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="45" />
-  </a>
-  <a href="https://hashnode.com/@TU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hashnode" width="45" />
-  </a>
-</p>
 
 ---
 
