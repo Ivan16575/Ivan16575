@@ -8,30 +8,21 @@
 ---
 
 <h2 align="center">About Me</h2>
-
 <table align="center">
   <tr>
-    <td width="60%">
-      <p style="font-size: 16px; line-height: 1.6;">
-        ¡Hola! Soy Iván, un apasionado del desarrollo web que disfruta creando 
-        interfaces modernas, limpias y fáciles de usar. Me encanta trabajar con 
-        tecnologías frontend como <b>HTML, CSS y JavaScript</b>, y también explorar 
-        el backend con <b>Java y Spring Boot</b>.
-      </p>
-
-      <p style="font-size: 16px; line-height: 1.6;">
-        Me interesa mucho el diseño <b>UI/UX</b>, las buenas prácticas de código y 
-        construir proyectos que realmente aporten valor. Siempre estoy aprendiendo 
-        algo nuevo y buscando colaborar en ideas que me reten y me hagan crecer.
-      </p>
-
-      <p style="font-size: 16px; line-height: 1.6;">
-        Si quieres contactar conmigo, aquí me tienes:  
-        <b>tuemail@ejemplo.com</b>
-      </p>
+    <td>
+      <ul>
+        <li>Estudiante de desarrollo web.</li>
+        <li>Me gusta crear interfaces modernas y layouts responsive.</li>
+        <li>Frontend: HTML, CSS, JavaScript.</li>
+        <li>Backend: Java, Spring Boot.</li>
+        <li>Interesado en UI/UX y buenas prácticas de código.</li>
+        <li>Buscando colaborar en proyectos con HTML, CSS y JavaScript.</li>
+        <li>Cómo contactarme: <b>tuemail@ejemplo.com</b></li>
+      </ul>
     </td>
-
-    <td width="40%" align="center">
+    <td>
+      <!-- Aquí va tu avatar generado -->
       <img src="./avatar1.png" alt="avatar" width="200" />
     </td>
   </tr>
